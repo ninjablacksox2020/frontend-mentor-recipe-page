@@ -24,7 +24,7 @@ Recipe Page Project for FrontEnd Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/recipe-page-solution-JxAhk7UUZn
 - Live Site URL: https://ninjablacksox2020.github.io/frontend-mentor-recipe-page/
 
 ## My process
